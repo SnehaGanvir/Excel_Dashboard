@@ -22,6 +22,7 @@ Orders by Age and Gender Group
 
 Orders by Channel (Amazon, Flipkart, Myntra, etc.)
 
+
 📈 Insights Highlighted
 
 Women contributed 64% of total sales, compared to 36% by men.
@@ -33,6 +34,7 @@ Most orders were delivered successfully (92%).
 Maharashtra recorded the highest sales (~2.99M).
 
 Adults placed the majority of orders (around 51% women, 23% men).
+
 
 🚀 Strategies to Increase Sales for Vrinda Store
 
@@ -46,6 +48,7 @@ Run festive and seasonal discounts during low-sales months 📆
 
 Reduce returns by improving product quality and delivery service 🚚
 
+
 🛠️ Tools Used
 
 Microsoft Excel
@@ -58,7 +61,9 @@ Slicers and Filters
 
 Dashboard Design and Formatting
 
+
 📷 Dashboard Preview
+
 
 🚀 How to Use
 
@@ -69,6 +74,7 @@ Open it in Microsoft Excel.
 Use slicers to filter data by Month, Channel, or Category.
 
 Analyze the interactive visuals to gain insights.
+
 
 
 💡 Learning Outcome
