@@ -79,6 +79,10 @@ Analyze the interactive visuals to gain insights.
 
 💡 Learning Outcome
 Through this project, I learned:
+
 How to design and format professional dashboards in Excel.
+
 How to use Pivot Tables, Charts, and Slicers effectively.
+
 How to derive key business insights from raw sales data.
+
